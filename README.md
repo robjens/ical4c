@@ -27,6 +27,7 @@ Copyright © 2012, Stuart Sierra (import-static macro)
 ## License
 
 Copyright © 2015, Rob Jentzema (Clojure work)
+
 Copyright © 2012, Ben Fortuna (Java library)
 
 Distributed under the Eclipse Public License version 1.0 just like Clojure.
